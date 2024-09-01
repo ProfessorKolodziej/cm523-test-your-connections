@@ -53,13 +53,13 @@ Here's what you'll be doing, step by step:
 
 | Step | Screenshot |
 | --- | --- |
-| Drag and drop the folder from the window that appears into VSCode. | <img width="1118" alt="Screen Shot 2021-08-23 at 6 36 48 PM" src="https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/f4fd3e35-9549-40ab-a475-f505a182b3ce"> |
+| Return to GitHub desktop, and right click your repository name. Then, click "Open in Visual Studio Code". If you see a different program name here, you can set it to VSCode using [these instructions](https://docs.github.com/en/desktop/configuring-and-customizing-github-desktop/configuring-a-default-editor-in-github-desktop#configuring-a-default-editor). | <img width="1250" alt="Screenshot 2024-09-01 at 11 55 54 AM" src="https://github.com/user-attachments/assets/8ae8c00d-19e1-4e2e-8b5e-753aa2414269"> |
 | When VSCode opens, you will see your folder as well as the welcome screen. Take a moment to familiarize yourself with the folder. You can also close the welcome screen by hitting the "x" next to Welcome in Open Editors. | <img width="2160" alt="Screen Shot 2021-08-28 at 6 57 02 PM" src="https://user-images.githubusercontent.com/1828613/131233047-e444d4c2-c301-4605-90dc-48e6217f63b3.png"> |
 | Navigate to the HTML file by clicking `src`, then `index.html`. This is where you will work on all projects. <br/><br/> Change the text inside the `<h1>` tag to say "I did it!", and then save the file. | <img width="2160" alt="Screen Shot 2021-08-28 at 7 11 21 PM" src="https://user-images.githubusercontent.com/1828613/131233231-69a492d5-cd16-4d9b-9029-301e5abcd8ae.png"> |
 
 ### Preview your changes
 
-The most basic way to preview an HTML file is to open it in a web browser. We'll learn an easier way to do this in class soon, but for right now, let's stick with the basics.
+The most basic way to preview an HTML file is to open it in a web browser. We'll learn a different way to do this in class soon, but for right now, let's stick with the basics.
 
 | Step | Screenshot |
 | --- | --- |
@@ -73,7 +73,7 @@ The most basic way to preview an HTML file is to open it in a web browser. We'll
 | --- | --- |
 | Open GitHub Desktop, and notice how the file you changed is now showing in the Changes tab, with a checkmark by it. You can also see a preview of the changes that were made in the right. Red means deleted, while green means added. When they are together, it means something has been edited. | ![image9](https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/07ed9b2c-eda5-4148-a678-836257076e04) | 
 | We track versions of files together by creating a **commit**. Add a **commit message** for your commit in the first field - something that will help you remember what these changes were. For example, later on, you might put something in this field like "Style the homepage". Once you are done, click "Commit to main". You do not need a description for commits in this class. | ![image9](https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/8d14b44b-855d-4fb7-b33a-e5d921393d26) | 
-| Your changes will "disappear". Don't panic - they're still there! You can see they are because now there will be a small arrow with a number. You can also go to the History tab and see the commit you just made. | ![image6](https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/cfbacaf2-28b5-4bfc-9d91-47abb004a2ee) | 
+| Your changes will "disappear". Don't worry - they're still there! You can see they are because now there will be a small arrow with a number. You can also go to the History tab and see the commit you just made. | ![image6](https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/cfbacaf2-28b5-4bfc-9d91-47abb004a2ee) | 
 | Now is a good time to practice editing and undoing. Navigate to the History tab and find your change. Try right clicking on it and selecting Undo Commit. You will see your working copy again, and a change to change the commit (and the code in the file) if you like. You can do this at any time. Since we don't actually need any code changes, you can edit your commit message if you like, and hit "Commit to main" one more time. | ![image6](https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/a3100e54-0e46-4e5e-8e34-ac6e527d0583) | 
 | Finally, click "Push Origin". <br><br>The small arrow and number will disappear. This is how you know the changes made it up to GitHub. There are no new changes to send! | <img width="1527" alt="Screen Shot 2021-08-28 at 7 40 44 PM" src="https://github.com/ProfessorKolodziej/cm523-test-your-connections/assets/1828613/6cbbcec0-0c37-4544-90ea-e38574ab2159"> | 
 
